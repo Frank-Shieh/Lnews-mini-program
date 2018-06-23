@@ -1,0 +1,26 @@
+/* pages/detail/detail.wxss */
+.header{
+  display: block;
+  margin-left: 20rpx;
+  margin-right: 20rpx;
+}
+.title{
+  font-size: 50rpx;
+}
+.wrapper{
+  display: flex;
+  opacity: 0.7;
+}
+.publisher{
+  font-size: 20rpx;
+  margin-right: 20rpx;
+}
+.time{
+  font-size: 20rpx;
+}
+.content{
+  padding-top: 50rpx;
+  margin-left: 20rpx;
+  margin-right: 20rpx;
+   font-size: 30rpx;
+}
